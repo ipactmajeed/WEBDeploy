@@ -3225,7 +3225,8 @@
 "Reports_LblWeekoff":"Weekoff",
 "Reports_LblHoliday":"Holiday",
 "Reports_LblOverTime":"OverTime",
-"Reports_ShowonlyPreviousAndCurrent":"ShowonlyPreviousAndCurrent"
+"Reports_ShowonlyPreviousAndCurrent":"ShowonlyPreviousAndCurrent",
+"WelcombackText":"Welcome Back"
 
 
 }

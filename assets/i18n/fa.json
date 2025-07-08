@@ -3153,7 +3153,8 @@
 "Attachment_CreatedDate":"تاريخ الانشاء",
 "Attachment_ModifiedBy":"تم التعديل من قبل",
 "Attachment_ModifiedDate":"تم التعديل في تاريخ",
-"Attachment_status":"حالة"
+"Attachment_status":"حالة",
+"WelcombackText":"يا هلا بعودتك"
 
 
 }
