@@ -2602,6 +2602,7 @@
 "Pay_PrevYearBalance": "PrevYearBalance-AR",
 "Reports_LblQuarterWise": "حسب الربع السنوي",
 "Reports_LblHalfYearWise": "حسب النصف السنوي",
+"Reports_LblCompanyWise": "Company Wise",
 "Reports_LblShowDiff": "Show Difference-Ar",
 "Reports_LblShowPrevHalfYrData": "Show Prev Half Year Data-Ar",
 "Reports_LblShowPrevMonthData": "Show Prev Month Data-Ar",
